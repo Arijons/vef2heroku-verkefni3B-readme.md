@@ -43,5 +43,5 @@ def frett1(frettanumer='Stranger'):
 def custom404(error):
     return "slá inn rétta route"
 
-bottle.run()
+bottle.run(host="0.0.0.0", port=argv[1])
 
