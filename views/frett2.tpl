@@ -8,7 +8,7 @@
 <body> 
 <link rel="stylesheet" href="/static/still.css">
 <header class='haus'>
-	<h2>Hasarfréttir.is</h2>
+	<h2>íþróttafréttir.is</h2>
 </header>
 	<div class='group'>
 		<section class="col1_2">
